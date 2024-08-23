@@ -85,3 +85,53 @@ https://claude.ai/chat/78faae9b-ed3b-4811-91a0-bf403e102d94
 CAPは、LLMを用いたDOCMTの課題に対処し、より正確で一貫性のある翻訳を可能にする。
 
 https://claude.ai/chat/c81cfe95-354f-4dea-b652-fb81e0081bd7
+
+
+## dataset
+
+https://www2.nict.go.jp/astrec-att/member/mutiyama/align/index.html
+
+小説のコーパスデータ
+
+https://www.jta-net.or.jp/useful_tools2.html
+
+https://blog.statsbeginner.net/entry/2023/08/27/225542
+
+
+https://huggingface.co/datasets/mpasila/ParallelFiction-Ja_En-100k-json/viewer/default/train?p=4&row=400
+
+日本語と英語が一致していないものもあるので、使う時は気を付ける
+
+https://huggingface.co/datasets/Hoshikuzu/opus-100-en-ja
+
+https://huggingface.co/datasets/Hoshikuzu/ccmatrix-en-ja
+
+https://huggingface.co/datasets/hpprc/alt-parallel-en-ja
+
+https://github.com/kunishou/databricks-dolly-15k-ja
+
+
+
+https://scholar.google.co.jp/scholar?as_ylo=2023&q=Fine+tuning+large+language+models+for+adaptive+machine+translation&hl=ja&as_sdt=0,5&as_vis=1
+
+## How to Embedding
+
+https://qiita.com/rairaii/items/f365d96bb11b72f9ea78
+
+https://zenn.dev/libratech/articles/afe9c5b30668bb
+
+https://qiita.com/matntntn/items/7cdca4f33ce03970ef20
+
+https://qiita.com/akeyhero/items/ce371bfed64399027c23
+
+## what is ALT Project
+
+https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/
+
+## Evaluate Translation
+
+https://www.getblend.com/blog/evaluate-translation-checklist/
+
+https://github.com/openai/evals
+
+
