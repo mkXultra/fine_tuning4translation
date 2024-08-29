@@ -138,3 +138,7 @@ https://github.com/openai/evals
 ## System prompt
 
 [Claude system prompt](https://docs.anthropic.com/en/release-notes/system-prompts#july-12th-2024)
+
+## openai fine tuning info
+
+https://platform.openai.com/docs/guides/model-selection/practical-example
